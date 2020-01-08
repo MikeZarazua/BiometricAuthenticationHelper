@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BiometricAuthenticationHelper_Example' do
+  pod 'BiometricAuthenticationHelper', :path => '../'
+
+  target 'BiometricAuthenticationHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
