@@ -1,0 +1,16 @@
+PODS:
+  - BiometricAuthenticationHelper (0.1.0)
+
+DEPENDENCIES:
+  - BiometricAuthenticationHelper (from `../`)
+
+EXTERNAL SOURCES:
+  BiometricAuthenticationHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BiometricAuthenticationHelper: 9d592488cb456119e844144ead87a7016c9cfcb5
+
+PODFILE CHECKSUM: 623e0f9c7612ff78d58548d31d8d2b6f49827130
+
+COCOAPODS: 1.8.4

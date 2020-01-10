@@ -1,0 +1,6 @@
+framework module Pods_BiometricAuthenticationHelper_Tests {
+  umbrella header "Pods-BiometricAuthenticationHelper_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

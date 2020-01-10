@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import BiometricAuthenticationHelper
 
 class ViewController: UIViewController {
 
